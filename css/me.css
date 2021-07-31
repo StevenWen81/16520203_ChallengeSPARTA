@@ -21,7 +21,7 @@ body{
 
 #header{
     background-color: black;
-    height: 11.5%;
+    height: 70px;
 
     display: flex;
     justify-content: space-between;
@@ -130,6 +130,12 @@ body{
     height: 61%;
 }
 
+#fix_bug{
+    background-color: #B4B4B4;
+    color:#B4B4B4;
+    height: 5%
+}
+
 #story{
     color: black;
     text-align: center;
@@ -146,7 +152,7 @@ body{
     align-items: center;
 
     background-color: black;
-    height: 12.5%;
+    height: 80px;
     padding: 0 1em;
 }
 
